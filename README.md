@@ -6,9 +6,8 @@ sample
 module 1
 map
 
-![map](Kentucky-map-sample.png)
+![map](kentucky-map-sample.png)
 
-f
 
 sample
 
