@@ -6,5 +6,5 @@ module 1
 layout
 map
 
-![image](Module-01 layout map sample.png)
+![map](Module-01-layout-map-sample.png)
 
